@@ -1,0 +1,11 @@
+#include<stdio.h>
+#include<conio.h>
+void main()
+{
+char a,b[10];
+printf("enter a letter");
+scanf("%c",&a);
+printf("enter a string");
+scanf("%s",b);
+printf("%c\n%s");
+}
